@@ -1,0 +1,33 @@
+# APUNTS MPWAR
+
+variables 'static' -> mantenen el valor d'una funció una vegada s'executa.
+
+Operador de comparació:
+var_dump( 1 == '1' )  // --> true 
+
+Operador d'identitat:
+var_dump( 1 === '1' ) // --> false
+ 
+
+Incrementals:
+ > $number = 4;
+ > $number++
+ > var_dump($number); // --> 4
+    
+ > $number = 4;
+ > ++$number
+ > var_dump($number); // --> 5
+
+
+Funcions anònimes:
+$foo = function () {
+  ... 
+} 
+
+
+hash bar 'o algo aixi' --> #!/usr/bin/env php
+permet extecutar un fitxer en el lan especificat sense declararlo
+example --> php file.php ---> ./file.php
+
+
+caracter: "|" --> pipe
