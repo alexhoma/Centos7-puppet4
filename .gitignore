@@ -1,3 +1,4 @@
 vagrant/.vagrant/*
 shared/*
 vagrant/modules/*
+.idea
