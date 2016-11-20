@@ -4,4 +4,5 @@ shared/www/databases/*
 shared/www/html/EmailTracker
 shared/www/project1/exercises/*
 vagrant/modules/*
+notes.mpwar
 .idea
