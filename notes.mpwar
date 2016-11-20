@@ -31,3 +31,7 @@ example --> php file.php ---> ./file.php
 
 
 caracter: "|" --> pipe
+
+
+Cookies --> se guardan en el ordenador del cliente
+Session --> se guarda en el servidor

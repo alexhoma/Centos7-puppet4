@@ -1,4 +1,7 @@
 vagrant/.vagrant/*
-shared/*
+shared/www/cgi-bin/*
+shared/www/databases/*
+shared/www/html/EmailTracker/*
+shared/www/project1/exercises/*
 vagrant/modules/*
 .idea
